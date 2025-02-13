@@ -45,6 +45,8 @@ public class az {
             case 12:
                 System.out.println("Winter");
                 break;
+            default:
+                System.out.println("Please try to choose numbers between 1 and 12:");
         }
     }
 }
